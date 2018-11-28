@@ -19,8 +19,8 @@
 #include "uno_24_shield.h"
 
 
-#define TFTWIDTH   240
-#define TFTHEIGHT  320
+#define TFTWIDTH   176
+#define TFTHEIGHT  220
 
 // Constructor for breakout board (configurable LCD control lines).
 // Can still use this w/shield, but parameters are ignored.
