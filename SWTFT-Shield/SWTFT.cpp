@@ -21,6 +21,7 @@
 
 #define TFTWIDTH   176
 #define TFTHEIGHT  220
+#define swap(a, b) { int16_t t = a; a = b; b = t; }
 
 // Constructor for breakout board (configurable LCD control lines).
 // Can still use this w/shield, but parameters are ignored.
